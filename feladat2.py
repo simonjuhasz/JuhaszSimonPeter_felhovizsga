@@ -1,2 +1,2 @@
-# Kiirja a szoveget
+# Kiírja a szöveget
 print("felhő vizsga!")
